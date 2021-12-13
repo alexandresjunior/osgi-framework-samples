@@ -1,2 +1,2 @@
-# osgi-framework-samples
+# OSGi Framework
 Working with OSGi Framework
